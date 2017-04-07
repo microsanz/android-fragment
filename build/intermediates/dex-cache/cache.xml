@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjaya\.android\build-cache\b9b693916998de1983c2db3f3c585adef121c228\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_4ca901ef99efaed96808c1dccbbbd25d0f25b8cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjaya\.android\build-cache\8c5a1e28957071a30b095dbcc5e042310b6efded\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="31c1fe8583cbb7f6a9f11bb7010a747e79712335">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_65b2adc33e47560d404003e2ea0c356b67b2cf99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjaya\.android\build-cache\5e9e24dec2b8e21a5f177e89f6f493cfeee8e6b7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1828dd75d357690efb2c5f4326804e2f7ad21f6c">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_4dbccdfa1b2c6fa27912db7632297eab1d93d775.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjaya\.android\build-cache\31fe39ad8e1520f585a9d924302ae80401ebd36a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_79a7404edeaa8c48ae47127313e82afff492c74c.jar" />
+    </item>
+
+</items>
