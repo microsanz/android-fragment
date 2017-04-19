@@ -3,21 +3,534 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\sanjaya\.android\build-cache\b9b693916998de1983c2db3f3c585adef121c228\output\jars\classes.jar"
+        jar="C:\Users\sanjaya\.android\build-cache\f2351e4a352682268d8e76ce6ca5bbb8088769dd\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="debf30ce0a7560396b6235edef77e447006454c2">
-        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_4ca901ef99efaed96808c1dccbbbd25d0f25b8cf.jar" />
+        sha1="a3826817a4de1daa170c33bbc04db24ab6826bd5">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_34fb8f9a43b953ebb6a500274d0cb82e7aa723e6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\5aacb68544508fe80f10a6f23fca9f3c7fe40aae\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6818f5804ca0b5eb089d902458faea4179eca1d">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_35a9b76f42faf9e92995e83fb305ff8a4dc285dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\3a3abc19176716549db5b8c89631ae2524f5432e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8dfe54fbaf4f2a27d395ddf806d0c011170999e0">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0c1df013af2e18e1986b55cffc3c474cb85007b1\classes.dex" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\sanjaya\.android\build-cache\8c5a1e28957071a30b095dbcc5e042310b6efded\output\jars\classes.jar"
+        jar="C:\Users\sanjaya\.android\build-cache\23357d958e2048c710fb2e9f9ca095f2fc03a78d\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="31c1fe8583cbb7f6a9f11bb7010a747e79712335">
-        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_65b2adc33e47560d404003e2ea0c356b67b2cf99.jar" />
+        sha1="4b42a61cd5924f28e95894e859e6abe57847e2f3">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_d86d2efe36011f06466a581c17e24df736d0ee17.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\31fe39ad8e1520f585a9d924302ae80401ebd36a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_79a7404edeaa8c48ae47127313e82afff492c74c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjaya\.android\build-cache\5aacb68544508fe80f10a6f23fca9f3c7fe40aae\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6818f5804ca0b5eb089d902458faea4179eca1d">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_35a9b76f42faf9e92995e83fb305ff8a4dc285dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjaya\.android\build-cache\e3f211b22234d8511985740b6c7af12c5cc81329\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="825c2e97a00df4df5b0f3081faa4fd6280cd7c72">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_e2ff48d730884d05c381d3391cf28aa95a8c0f86.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\e440bf80edeaa4d058d020fab8acb5b415f3b028\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b2349ddfe04831042844cbf055e5a072da37ddf8">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_67d3b923fa4abcbac2257698a37972c2164304f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\18a13c2c2132a4a0998bbec2a8a583aabe35f06c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b5d40faf2a905cfdf72c0f13263a30a6673db430\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjaya\.android\build-cache\3a3abc19176716549db5b8c89631ae2524f5432e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8dfe54fbaf4f2a27d395ddf806d0c011170999e0">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_0c1df013af2e18e1986b55cffc3c474cb85007b1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\f55a9791c16671186fd9dc51946b6b6eefa262c5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7d67042688d34474a82fe4ef4c6514ef471377ef">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2c4592ddd489acda2d42467bb0cb2f8baf2c2a6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\568ad389cfd0691df7455d976c02e5b94e8677eb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e4851331b3944beb6e7f77316a7661f53781da62">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_faff13b6a7bceb8090653302fa2b1325f28f9a15\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjaya\.android\build-cache\568ad389cfd0691df7455d976c02e5b94e8677eb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e4851331b3944beb6e7f77316a7661f53781da62">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_faff13b6a7bceb8090653302fa2b1325f28f9a15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjaya\.android\build-cache\f55a9791c16671186fd9dc51946b6b6eefa262c5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7d67042688d34474a82fe4ef4c6514ef471377ef">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_2c4592ddd489acda2d42467bb0cb2f8baf2c2a6c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\fae8c046de14a646d55c1a307f77fd70a450a7f7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b215e312bdc1ee7bfda31674eab5df8bad45c014">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_490cfad9a9206df9c2f89409e10755cf2ed768f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\51b4c21c4fdb377951d2f3c2a04bd1e939e2fe8d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="12032271e6be735e811ad529cb08ff066c381640">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7e878874f505e804e4c220ed6e56526a732ddb92\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjaya\.android\build-cache\150cab3c1ae60c2ddc724427a163ed898faec8ba\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_9b26ef722399c27dcd6dd019edcbbbc29497248f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\f9179fbc41c5f043be402195e089f87d20ed29b1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6503a134e72f85eb450b31dc3773430e93f83af6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjaya\.android\build-cache\f6a0786df7a470ccfc424fae495bb7178f26f319\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab8343c3aadefce37313ceadd8bc4db1993f2ff0">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_997b6d70fdcb232c9b2d33eb236a5c18afa09134.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\f6a0786df7a470ccfc424fae495bb7178f26f319\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab8343c3aadefce37313ceadd8bc4db1993f2ff0">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_997b6d70fdcb232c9b2d33eb236a5c18afa09134\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjaya\.android\build-cache\235120384fd7de8f44ba0733946d3786753f6195\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1f9df8b2bfff203397548ee400789154968adfe8">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_660805235c928dbd73273c98a9f155fc316e6d01.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\150cab3c1ae60c2ddc724427a163ed898faec8ba\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_9b26ef722399c27dcd6dd019edcbbbc29497248f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjaya\.android\build-cache\51b4c21c4fdb377951d2f3c2a04bd1e939e2fe8d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="12032271e6be735e811ad529cb08ff066c381640">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_7e878874f505e804e4c220ed6e56526a732ddb92.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\18ac92d3da7f91f4d412fe66d40f34eef701b313\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0bb2f0934fa55799508ba58ffc9ba579b35744b8">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5c1d876fa1e43b6197316c5e0e859812f68eb429\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\a327e1971193cee6a6b174148c7f88bcb7045166\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b32372f6821e003ae24cd3389bdd7925247f100">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c117f9d1791e44f91d01564d96760f930f4104a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\5fe299f530556323eb0bd42d91e90b960d4b9c3f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d81a3b0a16f48b4456f442552b62f4b1a472ce24">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0d4d4a0814208398168e4045022cf917e0ca76f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\d1e781b2c19ce7687cb6ddb8623e391acb0db3de\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9f6f857aa68b1972908f7d867a8bd95436ec473d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\e3f211b22234d8511985740b6c7af12c5cc81329\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="825c2e97a00df4df5b0f3081faa4fd6280cd7c72">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e2ff48d730884d05c381d3391cf28aa95a8c0f86\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjaya\.android\build-cache\e440bf80edeaa4d058d020fab8acb5b415f3b028\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b2349ddfe04831042844cbf055e5a072da37ddf8">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_67d3b923fa4abcbac2257698a37972c2164304f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjaya\.android\build-cache\18ac92d3da7f91f4d412fe66d40f34eef701b313\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0bb2f0934fa55799508ba58ffc9ba579b35744b8">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_5c1d876fa1e43b6197316c5e0e859812f68eb429.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjaya\.android\build-cache\31fe39ad8e1520f585a9d924302ae80401ebd36a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_79a7404edeaa8c48ae47127313e82afff492c74c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\9c2645e9b9c2fca30cb2f4cc5e4d2289f72b95c0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e684205744f814a73b7752545e0661330415c9e">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5eb99d68fa74f3c8e4ce4b7239ea0407d4a73c7a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjaya\.android\build-cache\9c2645e9b9c2fca30cb2f4cc5e4d2289f72b95c0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e684205744f814a73b7752545e0661330415c9e">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_5eb99d68fa74f3c8e4ce4b7239ea0407d4a73c7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjaya\.android\build-cache\fae8c046de14a646d55c1a307f77fd70a450a7f7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b215e312bdc1ee7bfda31674eab5df8bad45c014">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_490cfad9a9206df9c2f89409e10755cf2ed768f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjaya\.android\build-cache\a327e1971193cee6a6b174148c7f88bcb7045166\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b32372f6821e003ae24cd3389bdd7925247f100">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_c117f9d1791e44f91d01564d96760f930f4104a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjaya\.android\build-cache\5fe299f530556323eb0bd42d91e90b960d4b9c3f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d81a3b0a16f48b4456f442552b62f4b1a472ce24">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_0d4d4a0814208398168e4045022cf917e0ca76f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjaya\.android\build-cache\208934bc3e0a50b5a9712a4da3c817822195b229\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="888983f51cf34f57a93ff16832552f2f15937212">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_99349230ddca576929855ade26ab277083df424d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjaya\.android\build-cache\7d3ed9c7d45f4f9c6902f57055978e4f519c413e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efae381df589f3d4977c346c8a980f030315bb8b">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_ba525da50838c4353ea291fafeac15f8fff7ddfe.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\460a130b6008ed026f5a86e829838ebe12be6353\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b136ac09f209c1d91fec7db8518e33d4373c8f39">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_976ea827722d27dc558ec0d8faf830725499156f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjaya\.android\build-cache\460a130b6008ed026f5a86e829838ebe12be6353\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b136ac09f209c1d91fec7db8518e33d4373c8f39">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_976ea827722d27dc558ec0d8faf830725499156f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\67695fe7c56129bf270c457ae63f3278c53cbb61\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="536fd6afd6e1280607c5d70306eb32d385db7964">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bcd8c5510968d6731cd91404d5b90fe2bd5807fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\8ea63355a9c6a53bdc448e4db436d80e6a6e1d52\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ba420b710e0e77e4be085e2e33ba17858919d000\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjaya\.android\build-cache\67695fe7c56129bf270c457ae63f3278c53cbb61\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="536fd6afd6e1280607c5d70306eb32d385db7964">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_bcd8c5510968d6731cd91404d5b90fe2bd5807fe.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\7d3ed9c7d45f4f9c6902f57055978e4f519c413e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efae381df589f3d4977c346c8a980f030315bb8b">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ba525da50838c4353ea291fafeac15f8fff7ddfe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\6db08bd51ef6eca8187eeb16a2a5fa7f5972cb73\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bfe69e6ce1b35231074d60ba727d603765980356\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_cb2dd786136d5f350d0487216c1332cdbd381055\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.2.0\41e67dba73c3347e4503761642c39d0e06ca1f2\retrofit-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.2.0_2415855b8d4777e38ea78d8ee6c2dd0194aa5c19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\235120384fd7de8f44ba0733946d3786753f6195\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1f9df8b2bfff203397548ee400789154968adfe8">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_660805235c928dbd73273c98a9f155fc316e6d01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\208934bc3e0a50b5a9712a4da3c817822195b229\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="888983f51cf34f57a93ff16832552f2f15937212">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_99349230ddca576929855ade26ab277083df424d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\026dd755e24269fa04bfeb7abe54da06d79b29b7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cfa47e1b140562d47bc670629d07e209cd8b02c4">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8f6d50fc65bcc732ea10d5e68896066c8a0123f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\5b3d77af4462c9d53d640524fac87a0346ea044d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_08feb0aa78c550aeed2858d25437185535fdb340\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjaya\.android\build-cache\490746781e7a91b5de7052852a9b783e014f711b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1aa1dd9917e887bfe732cc5e561ae6ae8f9a84a">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_afae8e3f20cd3a5b7780b8b1205043f5dbaa14bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjaya\.android\build-cache\2c9da110acac7c58b7e4881f104504f2676b5714\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cce5792fa30ee8520620f298bf920309423b180f">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_572125b151e62a7dcd10904f2bf8f01091742c5c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\dc0abd9d22fe6bf0f8bcbdd6f0d58d7cd4e9657f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eb1fa2f4ad36ab71e18bcd080bb0d29609b61b41\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjaya\.android\build-cache\026dd755e24269fa04bfeb7abe54da06d79b29b7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cfa47e1b140562d47bc670629d07e209cd8b02c4">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_8f6d50fc65bcc732ea10d5e68896066c8a0123f5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\2c9da110acac7c58b7e4881f104504f2676b5714\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cce5792fa30ee8520620f298bf920309423b180f">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_572125b151e62a7dcd10904f2bf8f01091742c5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\5e9e24dec2b8e21a5f177e89f6f493cfeee8e6b7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1828dd75d357690efb2c5f4326804e2f7ad21f6c">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4dbccdfa1b2c6fa27912db7632297eab1d93d775\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\d94bae750fc11e735a414579947ab92971caa10f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7626a9aa507bbbdc16188bc9a9f9bf3370c1ddd">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_def5c7c4a602944ca4e318d0d45ba29e4553856e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\490746781e7a91b5de7052852a9b783e014f711b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1aa1dd9917e887bfe732cc5e561ae6ae8f9a84a">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_afae8e3f20cd3a5b7780b8b1205043f5dbaa14bd\classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -29,13 +542,562 @@
         <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_4dbccdfa1b2c6fa27912db7632297eab1d93d775.jar" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\sanjaya\.android\build-cache\31fe39ad8e1520f585a9d924302ae80401ebd36a\output\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\23357d958e2048c710fb2e9f9ca095f2fc03a78d\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
-        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_79a7404edeaa8c48ae47127313e82afff492c74c.jar" />
+        sha1="4b42a61cd5924f28e95894e859e6abe57847e2f3">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d86d2efe36011f06466a581c17e24df736d0ee17\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\23d331c37d2282e86c971b4beda134ca2a0268b7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a7ffe939ffd830b5d4052f3c1c4c235923790ce">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cb38593507290bfebdd558ff5b62bd3f799d3d84\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjaya\.android\build-cache\150cab3c1ae60c2ddc724427a163ed898faec8ba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_338b90be437dadf96484c1dcdc41e986d37073ba.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\f2351e4a352682268d8e76ce6ca5bbb8088769dd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3826817a4de1daa170c33bbc04db24ab6826bd5">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_34fb8f9a43b953ebb6a500274d0cb82e7aa723e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\150cab3c1ae60c2ddc724427a163ed898faec8ba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_338b90be437dadf96484c1dcdc41e986d37073ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjaya\.android\build-cache\23d331c37d2282e86c971b4beda134ca2a0268b7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a7ffe939ffd830b5d4052f3c1c4c235923790ce">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_cb38593507290bfebdd558ff5b62bd3f799d3d84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjaya\.android\build-cache\c9165931c1fa6a97decac5107ef18b57d00072ca\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3683531139103cc263b71d8b5ac6062832a8fd30">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_800b44b28a9123b4a5eb451ed95fcca024aae957.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\9a95ff0ebbac2dbb11ecb6ec992746902a1ba561\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c3c7f923e1df76640acb3a24823600f034a5d226">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3c2106e726b4c6e7d94d8c44b700eb3935c0c9b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\c9165931c1fa6a97decac5107ef18b57d00072ca\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3683531139103cc263b71d8b5ac6062832a8fd30">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_800b44b28a9123b4a5eb451ed95fcca024aae957\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjaya\.android\build-cache\80ef713285585a2a0a52ec83c1e1ef8bf71894ef\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec7d3099b4e3cf23230c78acaae438f3371e1c19">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_ae782f54d34a4c4b69ac59a9b916929b9da63997.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjaya\.android\build-cache\b9b693916998de1983c2db3f3c585adef121c228\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_4ca901ef99efaed96808c1dccbbbd25d0f25b8cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjaya\.android\build-cache\72803e373ac1fb8db385a463de5f12190323aceb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44098e691b36776973374ac03afe0225b17f8a74">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_b0cffab9caa6a401dd6c77d2adc30ac10e676fe2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\b9b693916998de1983c2db3f3c585adef121c228\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4ca901ef99efaed96808c1dccbbbd25d0f25b8cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\72803e373ac1fb8db385a463de5f12190323aceb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44098e691b36776973374ac03afe0225b17f8a74">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b0cffab9caa6a401dd6c77d2adc30ac10e676fe2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\748ba1573d94f358690141e6b4e8685c553fb139\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_92deff1fc9239e52998308a77776338024d385e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\e44114f31306f7d0f5d0d838a4fb02943a0ee19b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25f55515117e14a658120a7b01a9ea5170409db4">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3b8ca1d7a84e209dda160861eeac6424b298c7f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\e20d3e2d7175f0d3f34e718e855753f3eacf4cb3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6c74dab42788b458960618238f338d324b6f0656">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e32816600ce2078a5e7d9c104066de67ff098edd\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjaya\.android\build-cache\e44114f31306f7d0f5d0d838a4fb02943a0ee19b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25f55515117e14a658120a7b01a9ea5170409db4">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_3b8ca1d7a84e209dda160861eeac6424b298c7f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjaya\.android\build-cache\09dd6af99bda40e8dbd1615b8f6f32d3c676d3d4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f233cb35a6ea92364130d2d48791c461ec65983">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_a59a2e07df3dc7212857a6c0846b271d43139ba3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjaya\.android\build-cache\e20d3e2d7175f0d3f34e718e855753f3eacf4cb3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6c74dab42788b458960618238f338d324b6f0656">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_e32816600ce2078a5e7d9c104066de67ff098edd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjaya\.android\build-cache\0c83e79c89bcc721aba4497a52982d70446a66ce\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_674a4425e2dcbcd6d8480e579a15e963c0ed3829.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\09dd6af99bda40e8dbd1615b8f6f32d3c676d3d4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f233cb35a6ea92364130d2d48791c461ec65983">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a59a2e07df3dc7212857a6c0846b271d43139ba3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\9e0c7c9a85899760f45b2e37c33251e43261874b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9b9cbfd04cc449e4334705ffe37a48d966d24250\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_6313e77f5b327ef0e2faebcc985eb50d6efb50ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\0c83e79c89bcc721aba4497a52982d70446a66ce\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_674a4425e2dcbcd6d8480e579a15e963c0ed3829\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.11.0_f834ad9cef4586337c9c0b2bad6a38d7e12e12e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\d409fc57d28590be8302b04498e850140d8be5ee\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bf81907259ce0d335e42df15c2496436dae77a34\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjaya\.android\build-cache\643b511de558c1801d188ec3071d27f222d74902\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d395c5142f474891c7750f13b6a85d14682f166b">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_5525824da1b17e959316f1c5590caa4d971b294f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\643b511de558c1801d188ec3071d27f222d74902\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d395c5142f474891c7750f13b6a85d14682f166b">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5525824da1b17e959316f1c5590caa4d971b294f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjaya\.android\build-cache\394253f4c4cbf3dc942a9094343999883fb1ed0c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bfd85a88cf976eb2c54507cc914d8e8914c2f71e">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_e34d883ced8e6e8032d80e9a4c5cd480930cb963.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjaya\.android\build-cache\c847df53e793608fe6a39151bbb31b8cc22005d0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a5d5553c308643a9022f15513ebdd59e9c78d82">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_1887211d1177357bdeea3e5ca5f1baf24ff7e922.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\80ef713285585a2a0a52ec83c1e1ef8bf71894ef\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec7d3099b4e3cf23230c78acaae438f3371e1c19">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ae782f54d34a4c4b69ac59a9b916929b9da63997\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\8b2c3ddcfe1c899af398f38b780c702d4b904f4d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5ee29abfc804ebd51d65a4bde424c0ee74363939">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_79a01fe76df1d7c4b72438c6c60780eab967b235\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjaya\.android\build-cache\9a95ff0ebbac2dbb11ecb6ec992746902a1ba561\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c3c7f923e1df76640acb3a24823600f034a5d226">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_3c2106e726b4c6e7d94d8c44b700eb3935c0c9b8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\394253f4c4cbf3dc942a9094343999883fb1ed0c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bfd85a88cf976eb2c54507cc914d8e8914c2f71e">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e34d883ced8e6e8032d80e9a4c5cd480930cb963\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\97b11d4592ed3a5448da67fae59fa8acb268f0ed\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="399f75732ff1ac159f9e73611536f1508bf18d3b">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ad689792920f0a33a25453aa78c2045e8b29bdec\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjaya\.android\build-cache\8b2c3ddcfe1c899af398f38b780c702d4b904f4d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5ee29abfc804ebd51d65a4bde424c0ee74363939">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_79a01fe76df1d7c4b72438c6c60780eab967b235.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\2496915cdc531a5b80d9e77ef9e06867819cc506\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="abf7c64e0bbaaa931738856734f76646ae62d9a5">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_891014b9fc7b54c30f21b009b22d32bb9859c6be\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjaya\.android\build-cache\532de5e5b100c702ad143e2c0227ebfa3a6b9b91\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb115a110992b254f767f337da233071f6f940b8">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_4786ff79ab3547ab9b791f831928ab84ccbedfa5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjaya\.android\build-cache\97b11d4592ed3a5448da67fae59fa8acb268f0ed\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="399f75732ff1ac159f9e73611536f1508bf18d3b">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_ad689792920f0a33a25453aa78c2045e8b29bdec.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\c847df53e793608fe6a39151bbb31b8cc22005d0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a5d5553c308643a9022f15513ebdd59e9c78d82">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1887211d1177357bdeea3e5ca5f1baf24ff7e922\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\532de5e5b100c702ad143e2c0227ebfa3a6b9b91\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb115a110992b254f767f337da233071f6f940b8">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4786ff79ab3547ab9b791f831928ab84ccbedfa5\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjaya\.android\build-cache\2496915cdc531a5b80d9e77ef9e06867819cc506\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="abf7c64e0bbaaa931738856734f76646ae62d9a5">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_891014b9fc7b54c30f21b009b22d32bb9859c6be.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\827fb3767c67ae6c81ee0c7165ef535a303e93ea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_10b70f08b7a97538f1cebbcb97611043667631f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\0ede226c62c277c949a8dc6777a06f16069dd5f8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da5c606c36276a12a356e351882044c6b4b9e8d4">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0fe4fa21f062ff53c383b090fe02132143c90509\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjaya\.android\build-cache\0ede226c62c277c949a8dc6777a06f16069dd5f8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da5c606c36276a12a356e351882044c6b4b9e8d4">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_0fe4fa21f062ff53c383b090fe02132143c90509.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjaya\.android\build-cache\1439321a2695e02e2369c76037734b2263618d08\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0a843615f3b5fa3a080497709f5436696149a09">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_8302097b18ad87a8e58195f3f2b81a2019f7b709.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\22b535614db6a7e8695e266401bf3191c973eead\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="125bce1fb2d481b964fabf75f0949957ebe9ecd1">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f1a33f5d8d26c7f97498cbd14bbfa20ee888ff24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\5bbe9b60d8f837266b40b5924daa2299ea519638\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c66d42a21bc001f1e43e8a07e0b9be5ddade7497\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\ea88d1fa9c6ec91e7848b8a87c4a8129f6d4df0e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_afebefbee7680e1d0378db2bb8c594523673c7ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjaya\.android\build-cache\22b535614db6a7e8695e266401bf3191c973eead\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="125bce1fb2d481b964fabf75f0949957ebe9ecd1">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_f1a33f5d8d26c7f97498cbd14bbfa20ee888ff24.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\1439321a2695e02e2369c76037734b2263618d08\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0a843615f3b5fa3a080497709f5436696149a09">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8302097b18ad87a8e58195f3f2b81a2019f7b709\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjaya\.android\build-cache\2b88879e4782121145867cbfd3c9622b3390b7cf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dbae35d7fc3427d30bef0037bdf61ad0d8d984f8">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_e3b455604fe4d917bee7bc1217091288fbf7fa20.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\931fd664143cc165e5cb5a755caf8ecb38bea941\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7ba26433d9e9f4429d83ff65ad79bfc801dc00a">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9fff5526747cdf6adf3d648d3dce34c4738193e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\986d6654125ebb16714f5a91398771b8875ca78b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb004ea36f8802bad30000e286c177691740a322">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_586d91076466f22257b9cf7b2bf2a8f06c59e308\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjaya\.android\build-cache\8c5a1e28957071a30b095dbcc5e042310b6efded\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="31c1fe8583cbb7f6a9f11bb7010a747e79712335">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_65b2adc33e47560d404003e2ea0c356b67b2cf99.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_9c5dc74a8d64a0aa2e6c2bfb465a44f6885dc1fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\2b88879e4782121145867cbfd3c9622b3390b7cf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dbae35d7fc3427d30bef0037bdf61ad0d8d984f8">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e3b455604fe4d917bee7bc1217091288fbf7fa20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.6.0_4da7ef93a3ba97c2db74f34783fe3adb77da8600\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sanjaya\.android\build-cache\8c5a1e28957071a30b095dbcc5e042310b6efded\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="31c1fe8583cbb7f6a9f11bb7010a747e79712335">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_65b2adc33e47560d404003e2ea0c356b67b2cf99\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjaya\.android\build-cache\931fd664143cc165e5cb5a755caf8ecb38bea941\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7ba26433d9e9f4429d83ff65ad79bfc801dc00a">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_9fff5526747cdf6adf3d648d3dce34c4738193e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjaya\.android\build-cache\986d6654125ebb16714f5a91398771b8875ca78b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb004ea36f8802bad30000e286c177691740a322">
+        <dex dex="C:\Users\sanjaya\Documents\GitHub\Maps\app\build\intermediates\pre-dexed\debug\classes_586d91076466f22257b9cf7b2bf2a8f06c59e308.jar" />
     </item>
 
 </items>

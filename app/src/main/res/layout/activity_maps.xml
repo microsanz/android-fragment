@@ -10,14 +10,18 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="com.example.sanjaya.maps.MapsActivity" />
-    <com.arlib.floatingsearchview.FloatingSearchView
-        android:id="@+id/floating_search_view"
+    <android.support.v7.widget.CardView
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        app:floatingSearch_searchHint="Search..."
-        app:floatingSearch_suggestionsListAnimDuration="250"
-        app:floatingSearch_showSearchKey="false"
-        app:floatingSearch_close_search_on_keyboard_dismiss="true"/>
+        android:layout_height="wrap_content">
+        <fragment
+            android:id="@+id/place_autocomplete_fragment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:name="com.google.android.gms.location.places.ui.PlaceAutocompleteFragment"
+            />
+
+    </android.support.v7.widget.CardView>
+
     <ImageView
         android:id="@+id/confirm_address_map_custom_marker"
         android:layout_width="50dp"
